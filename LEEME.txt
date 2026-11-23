@@ -1,0 +1,16 @@
+FEELING - PROTOTIPO ACADÉMICO
+
+Archivos:
+- index.html: estructura del sitio.
+- styles.css: diseño adaptable a celular y computador.
+- app.js: buscador, filtro, perfiles de demostración, modales y formulario.
+- manifest.webmanifest y sw.js: base para instalar como PWA.
+- icon.svg: ícono de la aplicación.
+
+PARA PROBAR:
+1. Descomprime la carpeta.
+2. Abre index.html en el navegador para probar las funciones principales.
+3. Para probar la instalación PWA, publica los archivos en un hosting HTTPS o ejecuta un servidor local (por ejemplo, la extensión Live Server de Visual Studio Code). El service worker no funciona desde file://.
+
+IMPORTANTE:
+Este es un prototipo de clase. No tiene cuentas reales, verificación de edad, chat en tiempo real, servidor, moderación ni protección de datos para producción. Los perfiles son inventados y los saludos son simulados. No recopila información en un servidor; el formulario guarda datos en localStorage del navegador. Antes de ofrecer un servicio real de citas, se necesitarían controles de edad robustos, seguridad, privacidad, moderación, bloqueo/reporte y asesoría legal. El proyecto está planteado para personas adultas (18+).

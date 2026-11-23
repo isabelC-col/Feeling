@@ -1,0 +1,10 @@
+{
+  "name": "Feeling - Conexiones que se sienten",
+  "short_name": "Feeling",
+  "description": "Prototipo académico para descubrir afinidades y practicar conversaciones.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffafb",
+  "theme_color": "#e74768",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
